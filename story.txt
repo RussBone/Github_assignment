@@ -4,3 +4,5 @@ Suddenly, a mysterious figure left behind a clue: a USB drive labeled "TOP SECRE
 Data opened it, only to find encrypted files that hinted at a hidden treasure...
 Data worked tirelessly to decrypt the files
 He finally managed to find all the pieces to the treasure map!
+Data hurried to the coordinates the files gave him
+Only to find his best friend Byte had beaten him to the punch!
